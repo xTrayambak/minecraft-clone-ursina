@@ -1,3 +1,3 @@
-# minecraft-clone-ursina
+# minecraft-but-pyglet
 
 A Minecraft clone, yes.
