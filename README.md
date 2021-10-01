@@ -1,3 +1,3 @@
 # minecraft-but-pyglet
 
-A Minecraft clone, yes.
+A Minecraft type of game in Python and OpenGL, yes.
