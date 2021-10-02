@@ -26,6 +26,7 @@ class Window(pyglet.window.Window):
 		# create world
 
 		self.world = world.World()
+		self.world.generate()
 		
 		# create shader
 
